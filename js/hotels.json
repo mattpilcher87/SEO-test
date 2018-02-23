@@ -1,0 +1,18 @@
+[
+  {
+    "name": "CHESSINGTON RESORT HOTELS",
+    "price": "£121",
+    "events": [
+      "Zootastic Sleepovers",
+      "Bed and Breakfast"
+    ]
+  },
+  {
+    "name": "CHESSINGTON GLAMPING",
+    "price": "£194",
+    "events": [
+      "Zootastic Sleepovers",
+      "Bed and Breakfast"
+    ]
+  }
+]

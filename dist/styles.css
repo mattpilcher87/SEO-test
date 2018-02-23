@@ -1,0 +1,58 @@
+/* body {
+  background: url('./img/chessington-bg-tile.jpg')
+} */
+
+.hero-banner {
+  background-image: url('https://www.chessington.com/press/image-bank/images/2015/hotels/fullsize/African-Adventure-themed-kids-area.jpg');
+  height: 600px;
+  width: 100%;
+  background-size: cover;
+  position: relative;
+}
+
+.search-form--container {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  height: 130px;
+  background-color: rgba(0,0,0,0.5);
+  padding: 40px;
+  border-bottom: 10px solid #000;
+  text-align: center;
+}
+
+.quick-look--container {
+  width: 100%;
+}
+
+.search-form--container > .container > .row > .col-md-12 > div {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.quick-card--container {
+  width: 100%;
+  padding: 20px;
+  border: 1px solid #eee;
+  text-align: center;
+  margin-bottom: 20px;
+  background-color: #ffffff;
+}
+
+.quick-card--img {
+  width: 100%;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+
+.heading {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.other-content {
+  background-color: #ffffff;
+  padding: 40px;
+}
